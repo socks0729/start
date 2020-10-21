@@ -19,7 +19,7 @@
     change the --imgcol value 
     to make the filter to your own */
 
-    --imgbg: url(https://raw.githubusercontent.com/socks0729/seungyeon.dot/master/blue02.jpg); */
+    --imgbg: url(https://raw.githubusercontent.com/socks0729/seungyeon.dot/master/blue02.jpg) background-size:(cover); 
     --imgcol: linear-gradient(
         rgba(255, 255, 255, 0.7),
         rgba(255, 255, 255, 0.7)
